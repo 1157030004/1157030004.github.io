@@ -1,16 +1,18 @@
 ## Shadee here!
 
-![GitHub Logo](/images/totoro.png)
+![Banner](/images/totoro.png)
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Im a new comer in Github Page and still figure out every element of it.
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
