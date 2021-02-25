@@ -1,6 +1,6 @@
 ## Shadee here!
 
-![GitHub Logo]('https://c0.klipartz.com/pngpicture/818/841/gratis-png-mi-vecino-totoro-anime-manga-artikel-studio-ghibli-totoro.png')
+![GitHub Logo](/images/totoro.png)
 
 ### Markdown
 
