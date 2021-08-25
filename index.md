@@ -1,4 +1,27 @@
 # Here is written Ariq's foot steps
 
 ## Day Planners
+## Day Planner
+```mermaid
+gantt
+    dateFormat  HH-mm
+    axisFormat %H:%M
+    %% Current Time: 7:00:26 PM
+    section Tasks
+    Weekly centered meeting     :08-00, 60mm
+    Daily Asmen meeting     :09-00, 60mm
+    Finish evaluating data center recruitment     :10-00, 180mm
+    Remind Pak Arief's mentees to do their task     :13-00, 180mm
+    Attend Bu Feny's mentoring     :16-00, 60mm
+    END     :17-00, 0mm
+    section Breaks
+
+```
+
 [[2021-08-25]]
+- [x] 08:00 Weekly centered meeting
+- [x] 09:00 Daily Asmen meeting
+- [x] 10:00 Finish evaluating data center recruitment
+- [x] 13:00 Remind Pak Arief's mentees to do their task
+- [x] 16:00 Attend Bu Feny's mentoring
+- [ ] 17:00 END
