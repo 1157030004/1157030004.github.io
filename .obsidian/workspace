@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "6e5fdd9e0ea0d8cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3496acdb52cf2e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fe964094cd35fdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "82c5913fe79e3fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76c497125a6ba0f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "be8caa8fcf4a10ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a123f32d0327a10c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c068020bbe83b144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7775c625bfb550f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5f56144f3f61cb6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e12debb115d54027",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c3496acdb52cf2e2",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "00 START HERE.md",
+    "Day Planners/2021-08-25.md",
+    "Fundamental Values.md",
+    "Day Planners/Day Planner-20210825.md",
+    "2021-08-25.md",
+    "START HERE.md",
+    "TODO/BMKA.md",
+    "TODO/Untitled.md",
+    "tes.md"
+  ]
+}
